@@ -1,0 +1,27 @@
+[
+    {
+        "email": "AditiPareek@example.com",
+        "name": "Aditi Pareek",
+        "userId": "126"
+    },
+    {
+        "email": "johndoe@example.com",
+        "name": "John Doe",
+        "userId": "123"
+    },
+    {
+        "email": "aditiKapoor@example.com",
+        "name": "Addy Kapoor",
+        "userId": "124"
+    },
+    {
+        "email": "HanishaBundela@example.com",
+        "name": "Hanisha Bundela",
+        "userId": "125"
+    },
+    {
+        "email": "HarshitaKhanna@example.com",
+        "name": "Harshita Khanna",
+        "userId": "127"
+    }
+]
